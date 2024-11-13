@@ -104,7 +104,7 @@
 #   index += 1
 
 #plt.show()
-
+#################### code 12 ##################
 class Student:
     def __init__(self, name, age, gpa):
         self.name = name
